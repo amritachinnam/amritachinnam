@@ -1,5 +1,9 @@
+
+<div align="center">
+  
 # **👋 Welcome to My GitHub!**  
 
+</div>
 Hi, I’m **Amrita Chinnam**—a Business Data Analyst who sees data as more than just numbers. To me, every dataset is a puzzle, revealing how people think, act, and make decisions. I’m fascinated by customer behavior and love uncovering the "why" behind their choices. With expertise in Power BI, Tableau, Python, SQL, and Machine Learning, I transform data into meaningful strategies that help businesses connect with their customers, optimize decisions, and drive real impact.
 
 ---
