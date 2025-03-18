@@ -7,10 +7,16 @@
 Hi, I’m *Amrita Chinnam*—a Business Data Analyst who sees data as more than just numbers. To me, every dataset is a puzzle, revealing how people think, act, and make decisions. I’m fascinated by customer behavior and love uncovering the "why" behind their choices. With expertise in Power BI, Tableau, Python, SQL, and Machine Learning, I transform data into meaningful strategies that help businesses connect with their customers, optimize decisions, and drive real impact.
 
 ---
-
+<div align="center">  
+  
 ###  **🔗Quick Links**  
 
+</div>
+
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amritachinnam)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrita-chinnam-866545190/)  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amritachinnam2@gmail.com) [![Certifications](https://img.shields.io/badge/Certifications-blue?style=for-the-badge)](https://www.linkedin.com/in/amrita-chinnam-866545190/details/certifications/)
+
+
+---
 
 ### **💼 Previous Experience**  
 🔹 **Revenue Analyst & Reporting Consultant** - Virtusa Consulting Services Pvt Ltd  
