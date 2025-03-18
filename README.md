@@ -2,8 +2,6 @@
 
 Hi there! I'm **Amrita Chinnam**, a **Business and Data Analyst** passionate about **data-driven decision-making**, **data visualization**, and **business analytics**. With expertise in **Power BI, Tableau, Python, SQL, and Machine Learning**, I enjoy turning raw data into **actionable insights** that drive business success.  
 
-🚀 **Let’s connect and collaborate on data-driven projects!**  
-
 ---
 
 ## **🔗 Quick Links**  
