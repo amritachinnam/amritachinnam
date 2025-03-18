@@ -43,7 +43,7 @@ Hi there! I'm **Amrita Chinnam**, a **Business Data Analyst** passionate about *
 
 ---
 
-## **📜 Certifications**  
+## **Certifications**  
 ✅ **US Certified Management Accountant (CMA)**  
 ✅ **Google Business Intelligence Certificate**  
 
