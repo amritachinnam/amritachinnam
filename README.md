@@ -7,34 +7,24 @@
 Hi, I’m *Amrita Chinnam*—a Business Data Analyst who sees data as more than just numbers. To me, every dataset is a puzzle, revealing how people think, act, and make decisions. I’m fascinated by customer behavior and love uncovering the "why" behind their choices. With expertise in Power BI, Tableau, Python, SQL, and Machine Learning, I transform data into meaningful strategies that help businesses connect with their customers, optimize decisions, and drive real impact.
 
 ---
-<div align="center">  
-  
 ###  **🔗Quick Links**  
 
-</div>
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amritachinnam)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrita-chinnam-866545190/)  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amritachinnam2@gmail.com) [![Certifications](https://img.shields.io/badge/Certifications-blue?style=for-the-badge)](https://www.linkedin.com/in/amrita-chinnam-866545190/details/certifications/)
 
-
 ---
-<div align="center">  
   
 ### **💼 Previous Experience**  
-
-</div>
 
 🔹 **Revenue Analyst & Reporting Consultant** - Virtusa Consulting Services Pvt Ltd  
 🔹 **Tax Consultant** - Deloitte Touche Tohmatsu Limited
 
----
-<div align="center">  
-  
+--- 
 ### **📚 Education**  
-
-</div>
 
 🎓 **Master of Science in Business Analytics** – University of Massachusetts - Boston *(GPA: 3.9, May 2025)*  
 🎓 **Bachelor of Commerce, Accounting & Finance** – St. Francis Degree College For Women *(GPA: 3.5, Jun 2021)*  
+
 ---
 
 ### **💡 Key Interests**  
@@ -44,12 +34,18 @@ Hi, I’m *Amrita Chinnam*—a Business Data Analyst who sees data as more than 
 🔹 **Financial & Revenue Analysis** – ASC 606, GAAP Compliance  
 🔹 **Project Management** – Agile, Jira, Confluence  
 
+---
+
 ### **Certifications**  
 ✅ **US Certified Management Accountant (CMA)**  
 ✅ **Google Business Intelligence Certificate**  
 
+---
+
 ### **📢 Let’s Connect!**  
 I’m always open to **collaborations, networking, and discussing exciting projects**. Feel free to reach out!  
+
+---
 
 <div align="center">
   
