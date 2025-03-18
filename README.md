@@ -6,16 +6,13 @@ Hi there! I'm **Amrita Chinnam**, a **Business Data Analyst** passionate about *
 
 ## **🔗 Quick Links**  
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amritachinnam)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrita-chinnam-866545190/)  
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amritachinnam2@gmail.com)  
-[![Certifications](https://img.shields.io/badge/Certifications-View%20on%20LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/amrita-chinnam-866545190/details/certifications/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amritachinnam)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrita-chinnam-866545190/)  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amritachinnam2@gmail.com)  [![Certifications](https://img.shields.io/badge/Certifications-View%20on%20LinkedIn-blue?style=for-the-badge)](https://www.linkedin.com/in/amrita-chinnam-866545190/details/certifications/)
 
 ---
 
 ## **💼 Previous Experience**  
-🔹 **Revenue Analyst & Reporting Consultant** - Virtusa *(Mar 2022 – Jul 2023)*  
-🔹 **Tax Consultant** - Deloitte *(Sep 2021 – Mar 2022)*  
+🔹 **Revenue Analyst & Reporting Consultant** - Virtusa  
+🔹 **Tax Consultant** - Deloitte Touche Tohmatsu Pvt Ltd
 
 ---
 
