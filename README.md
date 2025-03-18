@@ -1,3 +1,7 @@
+body {
+    font-family: "Arial", sans-serif;
+}
+
 # **👋 Welcome to My GitHub!**  
 
 Hi there! I'm **Amrita Chinnam**, a **Business Data Analyst** passionate about **data-driven decision-making**, **data visualization**, and **business analytics**. With expertise in **Power BI, Python, SQL, and Machine Learning**, I enjoy turning raw data into **actionable insights** that drive business success.  
