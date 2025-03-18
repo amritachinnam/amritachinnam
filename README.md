@@ -49,17 +49,7 @@ Hi there! I'm **Amrita Chinnam**, a **Business Data Analyst** passionate about *
 
 ---
 
-## **🎉 Fun Fact**  
-🐱 Despite analyzing customer engagement trends, I found that **cats just don’t like fitness trackers**! 😆  
-
----
-
 ## **📢 Let’s Connect!**  
 I’m always open to **collaborations, networking, and discussing exciting projects**. Feel free to reach out!  
 
-[![GitHub](https://img.shields.io/badge/Visit%20My%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/amritachinnam)  
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrita-chinnam-866545190/)  
-
----
-
-Would you like any **refinements** or additional **sections**? 🚀
+[![GitHub](https://img.shields.io/badge/Visit%20My%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/amritachinnam)  [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrita-chinnam-866545190/)  
