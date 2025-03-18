@@ -31,18 +31,6 @@ Hi there! I'm **Amrita Chinnam**, a **Business Data Analyst** passionate about *
 
 ---
 
-## **📊 Featured Projects**  
-📌 **[Waggle Power BI Report](https://github.com/amritachinnam/Customer-Data-Analytics/blob/main/Waggle%20PowerBI%20Report.pdf)**  
-🚀 Analyzed **10,000+ device interactions**, identifying a **65% drop** in adoption rates for Lapcat smart pet devices.  
-
-📌 **[Customer Retention & Sales Analysis](https://github.com/amritachinnam/Customer-Retention-Analysis)**  
-📈 Used **Python & Power BI** to predict **customer churn** with **85% accuracy**, improving retention by **15%**.  
-
-📌 **[King County Real Estate Dashboard](https://github.com/amritachinnam/Real-Estate-Insights)**  
-🏡 Developed a **Tableau dashboard** analyzing **40,000+ house sales**, improving valuation accuracy by **25%**.  
-
----
-
 ## **Certifications**  
 ✅ **US Certified Management Accountant (CMA)**  
 ✅ **Google Business Intelligence Certificate**  
