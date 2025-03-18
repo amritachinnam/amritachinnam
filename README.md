@@ -9,7 +9,7 @@ Hi there! I'm **Amrita Chinnam**, a **Business Data Analyst** passionate about *
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amritachinnam)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrita-chinnam-866545190/)  
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amritachinnam2@gmail.com)  
-[![Certifications](https://img.shields.io/badge/Certifications-Google%20BI%20|%20US%20CMA-blue?style=for-the-badge)](https://www.linkedin.com/in/amrita-chinnam-866545190/details/certifications/)  
+[![Certifications](https://www.linkedin.com/in/amrita-chinnam-866545190/details/certifications/)  
 
 ---
 
