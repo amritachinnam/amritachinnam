@@ -16,7 +16,6 @@ Hi, I’m *Amrita Chinnam*—a Business Data Analyst who sees data as more than 
 
 ## **💼 Previous Experience**  
 🔹 **Revenue Analyst & Reporting Consultant** - Virtusa Consulting Services Pvt Ltd
-
 🔹 **Tax Consultant** - Deloitte Touche Tohmatsu Limited
 
 ---
