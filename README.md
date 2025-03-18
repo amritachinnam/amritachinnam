@@ -21,23 +21,21 @@ Hi, I’m *Amrita Chinnam*—a Business Data Analyst who sees data as more than 
   
 ### **💼 Previous Experience**  
 
-
 </div>
----
 
 🔹 **Revenue Analyst & Reporting Consultant** - Virtusa Consulting Services Pvt Ltd  
 🔹 **Tax Consultant** - Deloitte Touche Tohmatsu Limited
 
+---
 <div align="center">  
   
 ### **📚 Education**  
 
 </div>
----
 
 🎓 **Master of Science in Business Analytics** – University of Massachusetts - Boston *(GPA: 3.9, May 2025)*  
 🎓 **Bachelor of Commerce, Accounting & Finance** – St. Francis Degree College For Women *(GPA: 3.5, Jun 2021)*  
-
+---
 
 ### **💡 Key Interests**  
 🔹 **Business Intelligence** – Power BI, Tableau, Looker  
