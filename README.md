@@ -10,7 +10,7 @@ Hi, I’m *Amrita Chinnam*—a Business Data Analyst who sees data as more than 
 ###  **🔗Quick Links**  
 
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amritachinnam)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrita-chinnam-866545190/)  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amritachinnam2@gmail.com) [![Certifications](https://img.shields.io/badge/Certifications-blue?style=for-the-badge)](https://www.linkedin.com/in/amrita-chinnam-866545190/details/certifications/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amritachinnam?tab=repositories)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrita-chinnam-866545190/)  [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amritachinnam2@gmail.com) [![Certifications](https://img.shields.io/badge/Certifications-blue?style=for-the-badge)](https://www.linkedin.com/in/amrita-chinnam-866545190/details/certifications/)
 
 ---
   
@@ -49,6 +49,6 @@ I’m always open to **collaborations, networking, and discussing exciting proje
 
 <div align="center">
   
-[![GitHub](https://img.shields.io/badge/Visit%20My%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/amritachinnam)  [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrita-chinnam-866545190/)  
+[![GitHub](https://img.shields.io/badge/Visit%20My%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/amritachinnam?tab=repositories)  [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amrita-chinnam-866545190/)  
 
 </div>
